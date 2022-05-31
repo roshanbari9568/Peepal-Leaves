@@ -4,7 +4,7 @@ public class practTestNG {
 	
 
 	@Test
-	public void aa()
+	public void aa() 
 	{
 		System.out.println("This is first method");
 		
